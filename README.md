@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">chetan1707l<br><br>🌱 I’m currently learning new technologies including Agentic systems, backend development and distributed systems.<br><br>💬 Ask me about optimisation and low resource LLMs<br><br>📫 How to reach me chetanar1707@gmail.com</h4>
+<h4 align="left"><br>🌱 I’m currently learning new technologies including Agentic systems, backend development and distributed systems.<br><br>💬 Ask me about optimisation and low resource LLMs<br><br>📫 How to reach me chetanar1707@gmail.com</h4>
 
 ###
 
