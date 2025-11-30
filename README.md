@@ -15,6 +15,9 @@
 <h4 align="left"><br>🌱 I’m currently learning new technologies including Agentic systems, backend development and distributed systems.<br><br>💬 Ask me about optimisation and low resource LLMs<br><br>📫 How to reach me chetanar1707@gmail.com</h4>
 
 ###
+<h4> A small gift for viewing my profile: <a href="https://www.youtube.com/watch?v=GBIIQ0kP15E&pp=ygUOcmljayByb2xsIG1lbWU%3D">Click Me</a></h4>
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=chetaniitbhilai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
